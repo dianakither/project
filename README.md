@@ -1,7 +1,7 @@
 # api project
 
 
-The files is this repository contain code to 
+The files in this repository contain code to 
 
     - Create a Python virtual enivronment
     - Build an application to return the application name and version in Python code
